@@ -1,0 +1,22 @@
+{
+  "name": "complete-javascript-course",
+  "version": "1.0.0",
+  "description": "This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alancuenca/complete-javascript-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alancuenca/complete-javascript-course/issues"
+  },
+  "homepage": "https://github.com/alancuenca/complete-javascript-course#readme",
+  "dependencies": {
+    "fractional": "^1.0.0"
+  }
+}

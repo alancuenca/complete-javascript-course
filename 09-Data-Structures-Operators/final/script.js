@@ -73,7 +73,7 @@ for (const flight of flights.split('+')) {
 ///////////////////////////////////////
 // Coding Challenge #4
 
-/* 
+/*
 Write a program that receives a list of variable names written in underscore_case and convert them to camelCase.
 
 The input will come from a textarea inserted into the DOM (see code below), and conversion will happen when the button is pressed.
@@ -81,7 +81,7 @@ The input will come from a textarea inserted into the DOM (see code below), and 
 THIS TEST DATA (pasted to textarea)
 underscore_case
  first_name
-Some_Variable 
+Some_Variable
   calculate_AGE
 delayed_departure
 
@@ -179,7 +179,7 @@ planesInLine(12);
 ///////////////////////////////////////
 // Working With Strings - Part 2
 
-const airline = 'TAP Air Portugal';
+const   = 'TAP Air Portugal';
 
 console.log(airline.toLowerCase());
 console.log(airline.toUpperCase());
@@ -285,7 +285,7 @@ console.log(typeof new String('jonas').slice(1));
 ///////////////////////////////////////
 // Coding Challenge #3
 
-/* 
+/*
 Let's continue with our football betting app! This time, we have a map with a log of the events that happened during the game. The values are the events themselves, and the keys are the minutes in which each event happened (a football game has 90 minutes plus some extra time).
 
 1. Create an array 'events' of the different game events that happened (no duplicates)
@@ -447,7 +447,7 @@ console.log(new Set('jonasschmedtmann').size);
 ///////////////////////////////////////
 // Coding Challenge #2
 
-/* 
+/*
 Let's continue with our football betting app!
 
 1. Loop over the game.scored array and print each player name to the console, along with the goal number (Example: "Goal 1: Lewandowski")
@@ -616,7 +616,7 @@ for (const [i, el] of menu.entries()) {
 ///////////////////////////////////////
 // Coding Challenge #1
 
-/* 
+/*
 We're building a football betting app (soccer for my American friends 😅)!
 
 Suppose we get data from a web service about a certain game (below). In this challenge we're gonna work with the data. So here are your tasks:
